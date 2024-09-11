@@ -1,5 +1,5 @@
-# Scripts for Binary Classification of Poisonous Mushrooms
-## Playground Series - Season 4, Episode 8
+## Scripts for Binary Classification of Poisonous Mushrooms
+### Playground Series - Season 4, Episode 8
 
 =============== What this repo contains ===============
 #### EDA.py contains funcs that were helpful during the EDA; 
