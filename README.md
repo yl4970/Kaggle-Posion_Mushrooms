@@ -3,7 +3,7 @@
 
 =============== What this repo contains ===============
 #### EDA.py contains funcs that were helpful during the EDA; 
-#### Some were stepping stones to the final data-cleaning strategy
+###### Some were stepping stones to the final data-cleaning strategy
   - graph funcs to view the skewness and distribution of data
   - tried IQR for outlier handling but dropped for restricting the model's ability to train for outliers properly
   - tried to reference UCI (original dataset) rigidly (i.e. label categorical variables that are not listed in the reference dictionary as "others") but the result was not as expected since test dataset includes these noises
